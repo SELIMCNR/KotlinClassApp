@@ -166,7 +166,7 @@ class MainActivity : AppCompatActivity() {
         println(sonucNull)
 
 
-        //Breakpoint kırmızı çizgi düğme step 
+        //Breakpoint kırmızı çizgi düğme step
         println(globalX)
         ornekFonksiyon2()
         ornekFonksiyon()
